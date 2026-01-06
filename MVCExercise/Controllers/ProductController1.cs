@@ -53,4 +53,9 @@ public class ProductController : Controller
         _repository.InsertProduct(productToInsert);
         return RedirectToAction("Index");
     }
+    public IActionResult DeleteProduct(Product product)
+    {
+        _repository.DeleteProduct(product);
+        return RedirectToAction("Index");
+    }
 }
