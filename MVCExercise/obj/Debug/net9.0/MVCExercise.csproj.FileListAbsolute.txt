@@ -114,3 +114,4 @@
 /Users/addishiwotali/Desktop/repos/MVCExercise/MVCExercise/obj/Debug/net9.0/MVCExercise.pdb
 /Users/addishiwotali/Desktop/repos/MVCExercise/MVCExercise/obj/Debug/net9.0/MVCExercise.genruntimeconfig.cache
 /Users/addishiwotali/Desktop/repos/MVCExercise/MVCExercise/obj/Debug/net9.0/ref/MVCExercise.dll
+/Users/addishiwotali/Desktop/repos/MVCExercise/MVCExercise/obj/Debug/net9.0/MVCExercise.sourcelink.json

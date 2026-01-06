@@ -14,8 +14,14 @@ public class ProductController : Controller
 
 // GET
     public IActionResult Index()
-    {  
+    {
         var products = _repository.GetAllProducts();
         return View(products);
+    }
+
+    public IActionResult ViewProduct(int id)
+    {
+        var product = _repository.GetProductById(id);
+        return View(product);
     }
 }
